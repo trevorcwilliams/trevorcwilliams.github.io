@@ -1,15 +1,15 @@
 # Site wide configuration
 
-title: Site Title
+title: Trevor Williams | Economics
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Trevor Williams
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: Economics PhD Student at Yale
+  email: trevor.c.williams@yale.edu
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
